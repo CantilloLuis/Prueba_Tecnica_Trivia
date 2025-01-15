@@ -23,7 +23,7 @@
    - Después en la base de datos abrimos la pestaña llamada Query y ejecutamos todo el código sql que tenemos en el archivo de preguntas.sql (este archivo está en el proyecto), este archivo contiene todo para poder crear el database llamado trivia, la tabla de preguntas, columnas y la inserción de datos sobre las preguntas y sus respuestas.
    - Hay que tener en cuenta en el archivo db.php, en donde definimos los datos y credenciales de acceso a la base de datos, coincidan con los datos de la configuración local, en este caso estamos utilizando para la práctica MySQL nativo.
 
-Hay q configurar muy bien esta parte para poder tener una conexión exitosa con la BD. (Si se utiliza otra bd diferente, se define los datos en esta parte)
+Hay q configurar muy bien esta parte para poder tener una conexión exitosa con la BD.
 
 
 4. **Iniciar Apache**  
